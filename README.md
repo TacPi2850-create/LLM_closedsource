@@ -1,5 +1,5 @@
 ````markdown
-# 🤖 Jarvis Dual Mode - Closed Source
+🤖 Jarvis Dual Mode - Closed Source
 
 **Jarvis** è un'applicazione interattiva sviluppata in **Streamlit** che integra due modalità operative:
 
