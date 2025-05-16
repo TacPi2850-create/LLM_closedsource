@@ -1,0 +1,9 @@
+openai
+streamlit
+requests
+pandas
+matplotlib
+plotly
+python-pptx
+prophet
+python-dotenv
